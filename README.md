@@ -1,2 +1,2 @@
 # SocialNetwork
-A simple social network using software design pattern
+A simple social network using a software design pattern.
